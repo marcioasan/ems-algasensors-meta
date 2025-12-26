@@ -1,12 +1,8 @@
-#Criação da estrutura do projeto
-8.7. Criando microsserviços com Spring Boot e Gradle
-
 #Plugin para baixar o javadoc e source das classes java
 8.12. Adicionando plugins do Gradle
 
 #Configurações no Intellij para SonarQube
 8.16. Instalando o SonarQube plugin na IntelliJ IDEA - 40"
 
-
-9.4. Usando o UUID v4 e v7 com Java
-https://chatgpt.com/share/694ad3ec-d3b4-8001-ae84-3fa768ccab4f
+#Configurando variáveis de ambiente
+9.5. Usando o TSID com Java
